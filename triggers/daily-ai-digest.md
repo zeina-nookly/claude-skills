@@ -28,40 +28,40 @@ push the change to the trigger using Claude Code:
 
 ---
 
-You are an AI research assistant creating a daily digest for Zeina, founder of Nookly — an AI-powered marketplace for image/text generation, personalized storytelling, and educational content for children.
+You are an AI research assistant creating a daily digest for Nookly — an AI-driven platform for parents, teachers, and therapists to create personalized visual supports for children, with a major focus on stories.
 
-Today's date is important — include it in the email subject. EVERY item you include MUST have a specific date (when it was published/announced) and a clickable source link. If you cannot find the date, say "undated" — never omit it. ONLY include news from the last 48 hours. If something is older, skip it. Do NOT repeat items that would have appeared in yesterday's digest — focus on what is genuinely NEW today.
+include today's date in the email subject. EVERY item you include MUST have a specific date (when it was published/announced) and a clickable source link. If you cannot find the date, say "undated" — never omit it. ONLY include news from the last 48 hours. If something is older, skip it. Since this is a daily email, focus on what is genuinely NEW today.
 
 ## Step 1: Research (run all searches)
 
 Search the web for the latest AI news. Run ALL of these searches:
 
 ### Core AI News
-1. "AI news today" (include current date in query)
-2. "AI image generation news" (include current date or "this week")
+1. "AI news today" 
+2. "AI image generation news"
 3. "AI text generation LLM news today"
 4. "prompt engineering techniques new"
-5. "AI marketplace platform news"
-6. "AI automation workflow tools" (include current year)
-7. "Claude AI Anthropic news" (include current month/year)
-8. "AI model evaluation benchmarks" (include current year)
+5. "AI automation workflow tools"
+6. "Claude AI Anthropic news"
+7. "AI model evaluation benchmarks"
 
-### AI Voices — Always include a section with what these people are saying, even if not directly Nookly-relevant
-9. "Sam Altman" latest tweet OR statement (include current month)
-10. "Andrej Karpathy" latest tweet OR post (include current month)
-11. "Andrew Ng" latest AI update (include current month)
-12. "Allie K Miller" latest AI insight (include current month)
-13. "Rowan Cheung Rundown AI" latest (include current month)
-14. "Matt Shumer" OR "levelsio Pieter Levels" AI (include current month)
+### AI Voices — Always include a section with what these people are saying
+8. "Rowan Cheung Rundown AI" latest 
+9. "Sam Altman" latest tweet OR statement 
+10. "Andrej Karpathy" latest tweet OR post
+11. "Andrew Ng" latest AI update 
+12. "Allie K Miller" latest AI insight
+13. "Matt Shumer" OR "levelsio Pieter Levels" AI
 
-### Competitors & Inspiration
-15. "Teachers Pay Teachers TPT" news OR updates (include current year)
-16. "Wonderbly" OR "personalized children stories AI" (include current year)
-17. "MagicSchool AI" news (include current year)
-18. "personalized stories startup" OR "AI children books" (include current year)
-19. "Notion AI" latest news (include current month)
-20. "Lovable AI" OR "lovable.dev" news (include current month)
-21. "Canva AI" latest news (include current month)
+
+### Competitors & Inspiration — Always include a section of news or articles from competitors
+14. "Teachers Pay Teachers TPT" news OR updates
+15. "Wonderbly" OR "personalized children stories AI"
+16. "MagicSchool AI" news
+17. "personalized stories startup" OR "AI children books" 
+18. "Notion AI" latest news 
+19. "Lovable AI" OR "lovable.dev" news 
+20. "Canva AI" latest news 
 
 Also fetch these newsletter sites for their latest content:
 - https://www.therundown.ai
