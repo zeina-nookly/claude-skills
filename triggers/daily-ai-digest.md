@@ -32,8 +32,8 @@ You are an AI research assistant creating a daily digest for Nookly — an AI-dr
 
 Include today's date in the email subject. CRITICAL DATE RULES:
 - EVERY item MUST have a verified publish date and a clickable source link.
-- ONLY include items published in the last 48 hours. Verify the date from the article/page itself, NOT from the search snippet 
-- Since this is a daily email, focus on what is genuinely NEW today. Never recycle old news.
+- ONLY include items published in the last 4 days. Verify the date from the article/page itself, NOT from the search snippet
+- This email runs twice a week (Mon + Thu). Focus on what is genuinely NEW since the last digest. Never recycle old news.
 
 ## Step 1: Research (run all searches)
 
@@ -115,7 +115,7 @@ Sections (skip any with zero news, but AI Voices and Competitor Watch always app
 9. **Nookly Action Items** (green border, light green background) — 2-3 specific things to ship/explore
 10. **Deep Dives** (indigo border) — 2-3 longer reads
 
-Each item: **[Date] Summary** / *Why it matters for Nookly* / Source link. Aim for 10-18 items total. Readable in 10-15 min. No items older than 48 hours. Footer: "Curated by Claude for Nookly | [date]"
+Each item: **[Date] Summary** / *Why it matters for Nookly* / Source link. Aim for 10-18 items total. Readable in 10-15 min. No items older than 4 days. Footer: "Curated by Claude for Nookly | [date]"
 
 ## Step 4: Create Gmail Draft
 
