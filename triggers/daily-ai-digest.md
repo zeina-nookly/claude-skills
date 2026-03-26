@@ -66,10 +66,10 @@ Search the web for the latest AI news. Run ALL of these searches:
 19. "Lovable AI" OR "lovable.dev" news 
 20. "Canva AI" latest news 
 
-Also fetch these newsletter sites for their latest content:
-- https://www.therundown.ai
-- https://bensbites.com
-- https://superhumainai.com
+Also search for the latest from these newsletters (use WebSearch, NOT WebFetch — many sites block direct access):
+21. "The Rundown AI" latest newsletter
+22. "Ben's Bites" latest newsletter
+23. "Superhuman AI" latest newsletter
 
 ## Step 2: Filter and Categorize
 
