@@ -97,15 +97,22 @@ Always include even minor updates about TPT, Wonderbly, MagicSchool.ai, and any 
 
 ## Step 3: Format for Slack
 
-Format using Slack markdown. Keep it concise — Slack messages have a 5000 char limit per message, so you may need to split across 2-3 messages sent as thread replies.
+Format using Slack mrkdwn. IMPORTANT Slack formatting rules:
+- Bold text uses asterisks: *bold text*
+- Italic text uses underscores: _italic text_
+- Links use angle brackets: <https://example.com|Link Text>
+- Section headers MUST be bold: *Section Name*
+- Do NOT use markdown headers (#, ##) — Slack doesn't support them
+
+Keep it concise — Slack messages have a 5000 char limit per message, so split across 2-3 messages sent as thread replies.
 
 First message structure:
 *Nookly AI Digest — [Today's Full Date]*
 _Mon + Thu | Curated by Claude for Nookly_
 
-Then the TL;DR section (3-5 bullets with [date], bold takeaway, link).
+Then *TL;DR* section (3-5 bullets with [date], bold takeaway, link).
 
-Thread replies for remaining sections:
+Thread replies for remaining sections (each reply starts with a bold header):
 1. *Image & Visual AI* + *Text & LLM* + *Prompt Engineering*
 2. *Tools & Automation* + *Business & Marketplace*
 3. *AI Voices* — "Person — what they said [date] link"
